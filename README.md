@@ -14,6 +14,12 @@ Then run the following command to generate the GraphQL Typescript Types.
 yarn generate:schema
 ```
 
+## Libraries Used
+
+1. [graphql-yoga](https://the-guild.dev/graphql/yoga-server)
+2. [urql](https://formidable.com/open-source/urql/)
+3. [@graphql-codegen/cli](https://www.the-guild.dev/graphql/codegen/docs/getting-started/installation)
+
 ## Frontend
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
